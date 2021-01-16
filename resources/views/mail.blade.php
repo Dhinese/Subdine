@@ -1,0 +1,1 @@
+{{$product->dish}} availability is getting low
